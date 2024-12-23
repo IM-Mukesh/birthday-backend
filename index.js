@@ -40,7 +40,7 @@ app.post("/selectgift", async (req, res) => {
   }
 });
 app.get("/", (req, res) => {
-  res.send("Hi welcome to birthday wisher");
+  res.send("Hi welcome to birthday wisher baby");
 });
 
 app.listen(port, () => {
